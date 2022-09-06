@@ -57,7 +57,7 @@ public class CopyFile implements Serializable {
 //        CopyFile copyFile = new CopyFile();
 
         String linkcop = "D:\\Module2\\src\\binaryfile_serialization\\copy_file_binary\\data\\hello1.txt";
-        String linkParse = "D:\\Module2\\src\\binaryfile_serialization\\copy_file_binary\\data\\hello3.txt";
+        String linkParse = "D:\\Module2\\src\\binaryfile_serialization\\copy_file_binary\\data\\hello2.txt";
 
         File sourceFile =null;
         File destFile = null;

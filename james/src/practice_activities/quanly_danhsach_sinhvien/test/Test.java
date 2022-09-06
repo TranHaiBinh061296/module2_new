@@ -60,7 +60,7 @@ public class Test {
                 dssv.inDanhSachSinhVien();
             } else if(luaChon==10) {
 			System.out.println("Nhập họ và tên: "); String hoVaTen = sc.nextLine();
-//                System.out.println("Nhap ten file: ");
+                System.out.println("Nhap ten file: ");
                 String tenFile = sc.nextLine();
                 File f = new File(tenFile);
                 dssv.ghiDuLieuXuongFile(f);
